@@ -1,6 +1,6 @@
 import React from "react";
 // import { Outlet, Link } from "react-router-dom";
-import { NavLink, Outlet, useSearchParams } from "react-router-dom";
+import { Outlet, useSearchParams } from "react-router-dom";
 import QueryNavLink from "./QueryNavLink";
 import { getInvoices } from "../data";
 
